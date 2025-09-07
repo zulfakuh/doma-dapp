@@ -25,9 +25,8 @@ This project is a minimal decentralized application that integrates with **Doma 
 2. Install dependencies:
    ```bash
    npm install
-4. Start the local dev server:
+3. Start the local dev server:
    ```bash
    npm run dev
-6. Open browser →
-   ```bash http://localhost:3001/
+4. Open browser →  http://localhost:3001/
 
