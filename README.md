@@ -5,20 +5,20 @@
 ## 📌 Project Overview
 This project is a minimal decentralized application that integrates with **Doma Protocol**, demonstrating how domains can be used as on-chain RWAs (Real World Assets) for DeFi.
 
-![App Screenshot] (Screenshot 2025-09-07 194314.png)
+![App Screenshot] (./assets/ss-dapp.png)
 
 ## ✨ Features
-- Basic wallet connection (via MetaMask).
-- Example integration with Doma Protocol smart contracts.
-- Simple UI built with React + Vite.
-- Deployable on any EVM-compatible testnet.
+- 🔗 Basic wallet connection (via MetaMask)  
+- 📜 Example integration with **Doma Protocol smart contracts**  
+- 🖥️ Simple UI built with React (Create React App)  
+- 🌍 Deployable on any EVM-compatible testnet  
 
 ## 🛠️ Tech Stack
-- **Frontend:** React + Vite
-- **Blockchain:** Ethers.js
-- **Protocol:** Doma Protocol SDK
-- **Other:** Node.js
-
+- **Frontend**: React (CRA)  
+- **Blockchain**: Ethers.js  
+- **Protocol**: Doma Protocol SDK  
+- **Others**: Node.js
+- 
 ## 🚀 How to Run Locally
 1. Clone the repo:
    ```bash
@@ -29,6 +29,6 @@ This project is a minimal decentralized application that integrates with **Doma 
    npm install
 3. Start the local dev server:
    ```bash
-   npm run dev
+   npm start
 4. Open browser →  http://localhost:3001/
 
