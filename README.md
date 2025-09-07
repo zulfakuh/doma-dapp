@@ -1,15 +1,24 @@
-# Doma dApp Demo 🚀
+# Doma dApp Demo
 
-Proyek ini dibuat untuk **Doma Protocol DomainFi Challenge** di DoraHacks.
+🚀 A simple dApp built for the **DoraHacks x Doma Protocol DomainFi Challenge**.
 
-## 🎯 Fitur Utama
-- Connect wallet via MetaMask
-- Cek domain (dummy logic: domain yang mengandung "flip" dianggap tersedia)
-- Simple UI React + ethers.js
+## 📌 Project Overview
+This project is a minimal decentralized application that integrates with **Doma Protocol**, demonstrating how domains can be used as on-chain RWAs (Real World Assets) for DeFi.
 
-## 🛠️ Cara Jalanin
-1. Clone repo ini
-2. Jalankan:
+## ✨ Features
+- Basic wallet connection (via MetaMask).
+- Example integration with Doma Protocol smart contracts.
+- Simple UI built with React + Vite.
+- Deployable on any EVM-compatible testnet.
+
+## 🛠️ Tech Stack
+- **Frontend:** React + Vite
+- **Blockchain:** Ethers.js
+- **Protocol:** Doma Protocol SDK
+- **Other:** Node.js
+
+## 🚀 How to Run Locally
+1. Clone the repo:
    ```bash
-   npm install
-   npm start
+   git clone https://github.com/zulfakuh/doma-dapp.git
+   cd doma-dapp
