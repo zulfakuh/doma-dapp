@@ -23,8 +23,11 @@ This project is a minimal decentralized application that integrates with **Doma 
    git clone https://github.com/zulfakuh/doma-dapp.git
    cd doma-dapp
 2. Install dependencies:
+   ```bash
    npm install
-3. Start the local dev server:
+4. Start the local dev server:
+   ```bash
    npm run dev
-4. Open browser → http://localhost:3001/
-5. 
+6. Open browser →
+   ```bash http://localhost:3001/
+
