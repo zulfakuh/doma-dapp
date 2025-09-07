@@ -5,7 +5,7 @@
 ## 📌 Project Overview
 This project is a minimal decentralized application that integrates with **Doma Protocol**, demonstrating how domains can be used as on-chain RWAs (Real World Assets) for DeFi.
 
-![App Screenshot] (./assets/ss-dapp.png)
+![App Screenshot](./assets/ss-dapp.png)
 
 ## ✨ Features
 - 🔗 Basic wallet connection (via MetaMask)  
